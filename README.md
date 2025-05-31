@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Jia-Huang</h1>
+<h1 align="center">Hi 👋, I'm JiaHuang Weng</h1>
 <h3 align="left">A master's student in the Institute of Communication at National Tsing Hua University.</h3>
 
 - 📫 How to reach me **wengchiahuang@gapp.nthu.edu.tw**
