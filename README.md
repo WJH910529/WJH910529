@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm JiaHuang Weng</h1>
-<h3 align="left">A master's student in the Institute of Communication at National Tsing Hua University.(2024.09 ~ <expected>2026 09.)</h3>
+<h3 align="left">A master's student in the Institute of Communication at National Tsing Hua University.(2024.09 ~ [expected]2026 09.)</h3>
 
 - 📫 How to reach me **wengchiahuang@gapp.nthu.edu.tw**
 
